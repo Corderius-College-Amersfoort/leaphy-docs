@@ -19,11 +19,31 @@ Klik rechtsonder in Thonny en kies wat begint met MicroPython.
 ## Stap 4: typ je eerste Python code in de Repl
 
 Typ:
-```python
+```py
 import machine
 ```
 en druk op Enter!
 
 ![repl](repl.png)
+
+## Stap optioneel: 
+
+Voor Linux-gebruikers: Als je Linux gebruikt, kun je eenvoudig
+de REPL-modus openen met behulp van tio, een terminaltool die via USB 
+met je microcontroller communiceert.
+
+Installeer tio: Installeer eerst tio door het volgende commando 
+in je terminal uit te voeren:
+
+```bash
+sudo apt install tio
+```
+### Start tio op je usb port
+
+Maak verbinding met je microcontroller door tio te starten op de juiste USB-poort:
+
+```bash
+tio /dev/ttyACM0
+```
 
 

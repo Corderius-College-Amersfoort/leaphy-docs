@@ -2,4 +2,6 @@
 sidebar_position: 1
 ---
 
-# TODO: multimeter uitleg
+# Hoe werkt een multimeter?
+
+![multimeter](multimeter_iksnaperniksvan.png)
