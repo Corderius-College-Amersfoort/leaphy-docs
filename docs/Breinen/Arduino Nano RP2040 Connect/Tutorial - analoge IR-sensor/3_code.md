@@ -4,15 +4,17 @@ sidebar_position: 3
 
 # Code
 
-```python
-from machine import ADC
-```
+Eerst moet je de juiste library importeren:
 
-```python
-adc = ADC("A0")
+```py
+from time import sleep
+from leaphymicropython.utils.pins import read_analog
 ```
+En dan gebruik je een loop om te zorgen dat de ir waaarde om de seconde
+wordt geprint
 
-```python
-from time import sleep 
-while True: print(adc.read_u16()); sleep(1)
+```py
+while True:
+    print(read_analog(1))
+    sleep(1)
 ```

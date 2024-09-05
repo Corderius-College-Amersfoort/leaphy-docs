@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Dit heb je nodig om een afstands sensor uitlezen:
 
-Nano rp2040
+Nano RP2040 Connect
 
-draadjes
+draden
 
 afstandssensor:
 ![afstandssensor](sr50.jpg)
