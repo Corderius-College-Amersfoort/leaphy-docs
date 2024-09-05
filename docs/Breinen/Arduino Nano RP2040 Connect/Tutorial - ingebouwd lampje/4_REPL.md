@@ -45,5 +45,10 @@ Maak verbinding met je microcontroller door tio te starten op de juiste USB-poor
 ```bash
 tio /dev/ttyACM0
 ```
+En dan zie je in de terminal als het goed is dit: 
+
+```bash
+>>>
+```
 
 
