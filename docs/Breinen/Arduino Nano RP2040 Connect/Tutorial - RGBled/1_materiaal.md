@@ -2,8 +2,10 @@
 sidebar_position: 1
 ---
 
-# Dit heb je nodig om een RGBled te laten knipperen
+# Materiaal
 
 Nano RP2040 connect
 
-RGBled
+RGB-led:
+
+![RGB-led](doc_rgbled.png)

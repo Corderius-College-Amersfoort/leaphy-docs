@@ -2,4 +2,10 @@
 sidebar_position: 1
 ---
 
-# TODO: benodigdheden
+# Materiaal
+
+Nano RP2040 Connect
+
+Digitale IR-sensor:
+
+![analogIR-sensor](doc_irsensor.png)
