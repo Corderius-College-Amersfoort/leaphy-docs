@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Wiring
+
 # Hoe sluit je een afstondssensor aan op een Nano RP2040 connect
 
 ## Pinnen van de afstandssensor:
