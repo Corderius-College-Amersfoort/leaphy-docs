@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Dit heb je nodig om een afstands sensor uitlezen:
+# Materiaal
 
 Nano RP2040 Connect
 
