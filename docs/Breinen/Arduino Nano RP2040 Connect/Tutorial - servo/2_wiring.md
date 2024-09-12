@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 ---
+# Wiring
 
 # Hoe sluit je een servo aan op een Nano RP2040 Connect?
 

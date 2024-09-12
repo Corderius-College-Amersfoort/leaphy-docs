@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Wiring
+
 # Hoe sluit je een digitale IR-sensor aan op een RP2040 connect?
 
 ## Pinnen van de digitale IR-sensor:
