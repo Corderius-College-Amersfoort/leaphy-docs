@@ -6,8 +6,6 @@ sidebar_position: 1
 
 Nano RP2040 Connect
 
-draden
-
 afstandssensor:
 ![afstandssensor](sr50.jpg)
 

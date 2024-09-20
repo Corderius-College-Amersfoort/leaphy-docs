@@ -27,3 +27,4 @@ Verbind de zwarte draad (GND) van de eerste motor met de M1- aansluiting op het 
 Verbind de rode draad (VCC) van de tweede motor met de M2+ aansluiting op het motorshield.
 
 Verbind de zwarte draad (GND) van de tweede motor met de M2- aansluiting op het motorshield.
+

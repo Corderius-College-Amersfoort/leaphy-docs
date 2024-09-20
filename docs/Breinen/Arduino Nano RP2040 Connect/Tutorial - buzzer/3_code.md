@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Code
 
-eerst moet je de juiste library importeren:
+Eerst moet je de juiste library importeren:
 
 ```py
 from leaphymicropython.actuators.buzzer import set_buzzer
