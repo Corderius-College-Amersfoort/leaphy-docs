@@ -14,7 +14,7 @@ Maak een rgbled object en vul de pinnen in tussen de strings voor de rode, groen
 blauw pin
 
 ```py
-led = RGBLed(1, 2, 4)
+led = RGBLed(9, 10, 11)
 ```
 Dan ga je een loop gebruiken om constant de kleur te laten veranderen
 
