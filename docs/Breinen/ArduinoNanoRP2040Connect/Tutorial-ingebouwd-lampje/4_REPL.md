@@ -38,7 +38,7 @@ in je terminal uit te voeren:
 ```bash
 sudo apt install tio
 ```
-### Start tio op je usb port
+#### Start tio op je usb port
 
 Maak verbinding met je microcontroller door tio te starten op de juiste USB-poort:
 
