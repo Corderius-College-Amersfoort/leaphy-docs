@@ -86,7 +86,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/docs/breinen/Arduino Nano RP2040 Connect/1_board.md',
             },
           ],
         },

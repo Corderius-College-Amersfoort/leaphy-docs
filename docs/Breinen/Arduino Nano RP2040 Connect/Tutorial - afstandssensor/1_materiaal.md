@@ -8,4 +8,3 @@ Nano RP2040 Connect
 
 afstandssensor:
 ![afstandssensor](sr50.jpg)
-
