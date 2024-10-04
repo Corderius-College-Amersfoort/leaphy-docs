@@ -67,7 +67,7 @@ const config: Config = {
           label: 'Tutorial',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/Corderius-College-Amersfoort/leaphy-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -98,7 +98,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/Corderius-College-Amersfoort/leaphy-docs',
             },
           ],
         },
