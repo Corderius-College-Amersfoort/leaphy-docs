@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'leaphy-docs',
+  title: 'Leaphy-docs',
   tagline: 'De beste uitleg voor micropython',
   favicon: 'img/favicon.ico',
 
