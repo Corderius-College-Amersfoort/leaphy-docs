@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Leaphy-docs',
   tagline: 'De beste uitleg voor micropython',
-  favicon: 'img/favicon.ico',
+
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -59,10 +59,6 @@ const config: Config = {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Leaphy-docs',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
       items: [
         {
           type: 'docSidebar',
