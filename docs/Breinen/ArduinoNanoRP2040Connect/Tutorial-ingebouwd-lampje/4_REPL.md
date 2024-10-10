@@ -16,6 +16,14 @@ Klik rechtsonder in Thonny en kies wat begint met MicroPython.
 
 ![kies poort](kies_micropython.png)
 
+## Stap het werkt niet:
+
+Soms kan je computer geen RP2040 Connect (of andere microcontroller) vinden dan moet
+je naar: configure interpreter als je daar op hebt geklikt dan krijg je dit scherm:
+![kies interpreter](interpreter.png)
+
+En dan kies je voor: Micropython (RP2040)
+
 ## Stap 4: typ je eerste Python code in de Repl
 
 Typ:
