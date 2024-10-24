@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Leaphy-docs',
-  tagline: 'De beste uitleg voor micropython',
+  tagline: 'Micropython naar de maan!🚀🚀🚀🚀🔥🔥🔥🔥',
 
 
   // Set the production url of your site here
