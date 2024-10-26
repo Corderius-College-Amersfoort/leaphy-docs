@@ -4,17 +4,11 @@ sidebar_position: 2
 
 # Wiring
 
-# Hoe sluit je een afstondssensor aan op een Nano RP2040 connect
+# Hoe sluit je een afstandssensor aan op een Nano RP2040 connect?
 
 ## Pinnen van de afstandssensor:
 
-VCC: De plus (3.3v)
-
-Trig: Trigger (stuurt de signaalpuls)
-
-Echo: ontvangt het teruggekaatste signaal
-
-Gnd: Aarde (min)
+![afstandssensor](RCWL-1601_numbers.jpg)
 
 ## Aansluiten op de Nano RP2040 Connect
 

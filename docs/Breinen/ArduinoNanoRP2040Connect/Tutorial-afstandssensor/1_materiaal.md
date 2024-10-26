@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Materiaal
 
-Nano RP2040 Connect
+1. Nano RP2040 Connect
 
-afstandssensor:
-![afstandssensor](sr50.jpg)
+2. afstandssensor (type RCWL-1601):
+![afstandssensor](RCWL-1601.jpg)

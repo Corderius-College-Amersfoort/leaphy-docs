@@ -15,6 +15,6 @@ wordt geprint
 
 ```py
 while True:
-    print(read_distance(1))
+    print(read_distance(2,3))
     sleep(1)
 ```
