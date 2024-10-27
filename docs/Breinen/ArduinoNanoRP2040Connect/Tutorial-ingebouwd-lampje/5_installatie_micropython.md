@@ -5,11 +5,15 @@ sidebar_position: 5
 # Installatie MicroPython
 
 ## Bootloader
-Open de REPL (zie vorige stap) en typ
+Kopieer het stukje code hieronder in je editor:
+
 ```python
 import machine 
 machine.bootloader()
 ```
+
+Klik vervolgens op de groene "play" button links bovenaan.
+
 Je ziet een boel foutmeldingen, maar als het goed is opent zich ook de **Verkenner**, die er als het goed is zo uitziet:
 
 ![bootloader](verkenner_bootloader.png)

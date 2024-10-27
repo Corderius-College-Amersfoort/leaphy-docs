@@ -24,17 +24,8 @@ je naar: configure interpreter als je daar op hebt geklikt dan krijg je dit sche
 
 En dan kies je voor: Micropython (RP2040)
 
-## Stap 4: typ je eerste Python code in de Repl
 
-Typ:
-```py
-import machine
-```
-en druk op Enter!
-
-![repl](repl.png)
-
-## Stap optioneel: 
+## Deze stap alleen voor als je geen Windows-computer hebt!
 
 Voor Linux-gebruikers: Als je Linux gebruikt, kun je eenvoudig
 de REPL-modus openen met behulp van tio, een terminaltool die via USB 
