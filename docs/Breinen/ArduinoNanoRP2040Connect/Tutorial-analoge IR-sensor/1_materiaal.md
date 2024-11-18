@@ -6,6 +6,6 @@ sidebar_position: 1
 
 Nano RP2040 Connect
 
-Digitale IR-sensor:
+Analoge IR-sensor:
 
 ![analogIR-sensor](doc_irsensor.png)

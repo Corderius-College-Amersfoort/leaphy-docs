@@ -2,13 +2,30 @@
 sidebar_position: 2
 ---
 
-# Wiring
+# Wiring & Code
 
-# Hoe sluit je een afstandssensor aan op een Nano RP2040 connect?
+## Voorbeeld van aansluiten
 
-## Pinnen van de afstandssensor:
+![rcwl-1601](nano_rp2040_hcsr04_bb.svg)
 
-![afstandssensor](RCWL-1601_numbers.jpg)
+## Code
+
+Eerst moet je de juiste library importeren:
+
+```py
+from time import sleep
+from leaphymicropython.sensors.sonar import read_distance
+```
+En dan gebruik je een loop om te zorgen dat de afstand in centimeter om de seconde
+wordt geprint
+
+```py
+while True:
+    print(read_distance(19,18))
+    sleep(1)
+```
+- 19 --> pin D19 (trig)
+- 18 --> pin D18 (echo)
 
 ## Aansluiten op de Nano RP2040 Connect
 
