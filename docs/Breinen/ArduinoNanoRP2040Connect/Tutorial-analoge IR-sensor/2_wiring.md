@@ -2,24 +2,41 @@
 sidebar_position: 2
 ---
 
-# TODO: wiring
+# Wiring & Code
+
+## Een voorbeeld van een analoge ir-sensor aansluiten
+
+Hierbij een voorbeeld van hoe je een analoge ir-sensor kunt aansluiten en kunt uitlezen.
+
+![analoge ir-sensor](nano_rp2040_analog_ir_sensor.svg)
+
+## De code
+Eerst moet je de juiste library importeren:
+
+```py
+from time import sleep
+from leaphymicropython.utils.pins import read_analog
+```
+
+En dan gebruik je een loop om te zorgen dat de ir waaarde om de seconde
+wordt geprint.
+
+```py
+while True:
+    print(read_analog(14))
+    sleep(1)
+```
+
+De 14 hier verwijst naar D14 (zie afbeelding hierboven).
 
 
 ## Belangrijke informatie over de analoge pinnen
 
 https://support.arduino.cc/hc/en-us/articles/7454007471004-About-the-analog-pins-on-Nano-RP2040-Connect
 
-
-# Hoe sluit je een analoge IR-sensor aan op een Nano RP2040 Connect
 ## Pinnen van de analoge IR-sensor:
 VCC: De plus (3.3v)
 
 GND: Aarde (min)
 
 AO: De analoge uitgang
-## Aansluiten op de Nano RP2040 Connect
-VCC: Verbind de VCC-pin van de IR-sensor met de 3.3V-pin op de Nano RP2040 Connect
-
-GND: Verbind de GND-pin van de IR-sensor met een GND-pin op het board.
-
-AO: Verbind de OUT-pin van de sensor met een analoge pin van de Nano RP2040 Connect, bijvoorbeeld A2.
