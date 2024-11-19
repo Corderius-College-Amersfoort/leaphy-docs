@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Verbinden met je computer
+# Verbinden met je computer via USB-kabel
 
 We gaan eerst je microcontroller verbinden met je computer.
 

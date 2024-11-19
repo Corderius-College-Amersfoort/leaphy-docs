@@ -2,7 +2,8 @@
 sidebar_position: 4
 ---
 
-# Code schrijven in de REPL (Read–eval–print loop)
+# Installatie MicroPython
+
 
 ## Stap 1: open Thonny
 Open de Thonny applicatie op je computer.
@@ -22,7 +23,22 @@ Soms kan je computer geen RP2040 Connect (of andere microcontroller) vinden dan 
 je naar: configure interpreter als je daar op hebt geklikt dan krijg je dit scherm:
 ![kies interpreter](interpreter.png)
 
-En dan kies je voor: Micropython (RP2040)
+Kies:
+- Interpreter: RP2040
+- Port: kies er één die "COM" bevat
+
+Klik dan op:
+![img.png](img.png)
+
+Klik dan op de reset knop op de microcontroller.
+
+Kies de volgende waardes:
+
+![img_1.png](img_1.png)
+
+Selecteer in Thonny nu de goede poort:
+
+![img_2.png](img_2.png)
 
 
 ## Deze stap alleen voor als je geen Windows-computer hebt!
