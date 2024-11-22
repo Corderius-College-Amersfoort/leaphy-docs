@@ -1,8 +1,11 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
-# Code
+# Wiring & Code
+
+![oled](nano_rp2040_oled.svg)
+## Code
 
 Eerst moet je de juiste library importeren:
 
@@ -14,10 +17,10 @@ Met deze code kun je tekst weergeven op een OLED-scherm via I2C-communicatie. Di
 ## Uitleg van de Code
 
 ### Initialisatie
-Je begint met het importeren van de benodigde modules en het configureren van de I2C-pins. Hier wordt GPIO 4 (SDA) en GPIO 5 (SCL) gebruikt, maar je kunt andere pins kiezen die geschikt zijn voor jouw board.
+Je begint met het importeren van de benodigde modules en het configureren van de I2C-pins. Hier wordt GPIO 12 (SDA) en GPIO 13 (SCL) gebruikt, maar je kunt andere pins kiezen die geschikt zijn voor jouw board.
 
 ```py
-i2c = SoftI2C(scl=Pin(5), sda=Pin(4))
+i2c = SoftI2C(scl=Pin(13), sda=Pin(12))
 ```
 Vervolgens definieer je de breedte en hoogte van het OLED-scherm. Dit voorbeeld gebruikt een scherm met een resolutie van 128x64 pixels.
 ```py
