@@ -12,12 +12,15 @@ sidebar_position: 1
 
 ```python
 from machine import Pin
+from time import sleep
 
 # Initialize the pin (e.g., pin 14) as an output
-pin = Pin(14, Pin.OUT)
+pin = Pin("D14", Pin.OUT)
 
-# Set the pin to high
-pin.value(1)  # Sets the pin to HIGH (3.3V)
+while True:
+    # Set the pin to high
+    pin.value(1)  # Sets the pin to HIGH (3.3V)
+    sleep(1)
 ```
 Als het goed is, zie je 3.3v op je scherm van de multimeter!
 
