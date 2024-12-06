@@ -25,7 +25,7 @@ i2c = SoftI2C(scl=Pin(13), sda=Pin(12))
 Vervolgens definieer je de breedte en hoogte van het OLED-scherm. Dit voorbeeld gebruikt een scherm met een resolutie van 128x64 pixels.
 ```py
 oled_width = 128
-oled_height = 64
+oled_height = 32
 ```
 Daarna maak je een object van het type SSD1306_I2C om het scherm te beheren.
 
