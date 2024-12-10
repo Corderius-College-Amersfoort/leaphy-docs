@@ -18,13 +18,17 @@ from time import sleep
 led_pin = Pin('LED_RED', Pin.OUT)
 
 while True:
-    led_pin.on() #  zet het lampje aan
-    sleep(1)      # wacht een seconde
-    led_pin.off() # zet het lampje uit
-    sleep(1)      # wacht een seconde
+    led_pin.value(0) # zet het lampje aan
+    sleep(1)         # wacht een seconde
+    led_pin.value(1) # zet het lampje uit
+    sleep(1)         # wacht een seconde
 ```
+## Stap 2: Bedoel je niet 1 aan en 0 uit?
+Helaas niet. Bij de ingebouwde RGB LED is:
+- .value(0) --> AAN
+- .value(1) --> UIT
 
-## Stap 2: andere kleuren
+## Stap 3: andere kleuren
 - Kun je ook blauw en groen laten zien?
 - Wat gebeurt er als je blauw en groen tegelijkertijd aan zet?
 
