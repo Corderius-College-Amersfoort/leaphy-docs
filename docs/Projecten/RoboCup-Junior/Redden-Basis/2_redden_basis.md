@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Belangrijke links voor Redden Basis
+# Redden Basis
 
 Hierbij een overzicht van de belangrijke links voor Redden Basis:
 - [website competitie](https://www.robocupjunior.nl/redden-basis/)
@@ -17,3 +17,6 @@ In de kern bestaat Redden Basis uit:
 - herkennen van ballen
 - verplaatsen van ballen
 - detectie van eindpunt
+
+
+
