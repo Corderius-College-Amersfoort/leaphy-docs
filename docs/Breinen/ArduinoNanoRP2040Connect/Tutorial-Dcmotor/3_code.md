@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Code
+# Code met package
 
 eerst moet je de juiste library importeren:
 

@@ -4,7 +4,17 @@ sidebar_position: 2
 
 # Wiring
 
-# Hoe sluit je een twee motoren aan op een motorshield voor de Nano RP2040 connect
+# Hoe sluit je twee motoren aan op een motorshield voor de Nano RP2040 connect?
+
+## Plaats Arduino Nano op Leaphy Murphy Shield
+![shield met nano](leaphy_murphy_shield_met_nano.png)
+
+## Verbindg motor module met shield
+Deze video kan nuttig zijn:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/JqjtGiUV-DM" title="Stap 4 Bouwen Leaphy Starling:  Electronica vastzetten" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Verbinden motoren met motor module
+<iframe width="640" height="360" src="https://www.youtube.com/embed/adpjVscMvoA" title="tt motoren aansluiten" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Pinnen van de dcmotor:
 
