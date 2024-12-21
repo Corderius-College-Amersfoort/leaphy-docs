@@ -14,5 +14,5 @@ sidebar_position: 1
 |            ✅             | Digitale IR-sensor aansluiten en uitlezen  |                  Volg tutorial                   | [Tutorial - Digitale IR-sensor](../../../category/tutorial---digitale-ir-sensor) |
 |            ✅             |  Analoge IR-sensor aansluiten en uitlezen  |                  Volg tutorial                   |  [Tutorial - Analoge IR-sensor](../../../category/tutorial---analoge-ir-sensor)  |
 |            ✅             |               Afstandssensor               |                  Volg tutorial                   |     [Tutorial - Afstandssensor](../../../category/tutorial---afstandssensor)     |
-|            ✅             |      DC-motor aansluiten en aansturen      |                  Volg tutorial                   |        [Tutorial - Afstandssensor](../../../category/tutorial---dcmotor)         |
-|            ⚠️            | De robot laten werken met een battery pack |                  Volg tutorial                   |                   [Tutorial - Batterijen](../../../category/tutorial---batterijen)                    |
+|            ✅             |      DC-motor aansluiten en aansturen      |                  Volg tutorial                   |           [Tutorial - DC-motor](../../../category/tutorial---dcmotor)            |
+|            ⚠️            | De robot laten werken met een battery pack |                  Volg tutorial                   |         [Tutorial - Batterijen](../../../category/tutorial---batterijen)         |

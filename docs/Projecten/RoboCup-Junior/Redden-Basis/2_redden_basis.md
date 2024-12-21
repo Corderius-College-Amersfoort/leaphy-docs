@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+tags: [sensors, distance-measurement, robotics]
+
 ---
 
 # Redden Basis
@@ -12,7 +14,7 @@ Hierbij een overzicht van de belangrijke links voor Redden Basis:
 Redden Basis bestaat uit:
 - [lijn volgen](3_lijnvolgen.md)
 - [obstakel ontwijken](4_obstakels.md)
-- detectie dat je in de evacuatiezone gekomen bent
+- [detectie dat je in de evacuatiezone gekomen bent](5_evacuatiezone_detectie.md)
 - rijden in evacuatiezone (zonder lijndetectie)
 - herkennen van ballen
 - verplaatsen van ballen
