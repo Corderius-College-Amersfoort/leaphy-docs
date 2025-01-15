@@ -15,10 +15,10 @@ Redden Basis bestaat uit:
 - [lijn volgen](3_lijnvolgen.md)
 - [obstakel ontwijken](4_obstakels.md)
 - [detectie dat je in de evacuatiezone gekomen bent](5_evacuatiezone_detectie.md)
-- rijden in evacuatiezone (zonder lijndetectie)
-- herkennen van ballen
-- verplaatsen van ballen
-- detectie van eindpunt
+- [rijden in evacuatiezone (zonder lijndetectie)](6_rijden_evacuatiezone.md)
+- [vinden van ballen](7_vinden_van_ballen.md)
+- [Grijpen van ballen](8_grijpen_van_een_bal.md)
+- [detectie van eindpunt](9_detectie_eindpunt.md)
 
 
 

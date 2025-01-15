@@ -4,8 +4,8 @@ sidebar_position: 5
 
 # Detectie evacuatiezone
 
+## Via pull-up resistor
 ![aluminiumtape detectie](aluminium_tape_detectie_bb.png)
-
 
 ## Code
 ```python 
@@ -21,6 +21,12 @@ while True:
 ```
 
 Zodra de twee draden verbinding maken met het aluminiumtape, zal pin D2 op 0 komen te staan.
+
+## Via RGB sensor
+Geeft de RGB sensor een andere waarde bij:
+- wit
+- zwart
+- de aluminiumtape die hoort bij de overgang naar de evacuatiezone?
 
 
 
