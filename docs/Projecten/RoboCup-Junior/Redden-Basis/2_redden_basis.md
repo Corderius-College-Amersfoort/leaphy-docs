@@ -8,7 +8,7 @@ tags: [sensors, distance-measurement, robotics]
 
 Hierbij een overzicht van de belangrijke links voor Redden Basis:
 - [website competitie](https://www.robocupjunior.nl/redden-basis/)
-- [Spelregels 2022](https://www.robocupjunior.nl/wp-content/uploads/2021/12/Redden-Basis-2022.pdf)
+- [Spelregels 2025](/docs/RoboCupJuniorReddenBasis2025_rev1.pdf)
 - [Discord](https://discord.com/channels/900836668364455967/1028318828142276648)
 
 Redden Basis bestaat uit:
