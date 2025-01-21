@@ -6,8 +6,8 @@ sidebar_position: 1
 
 |  Kan ik het gebruiken?   |                    Doel                    |                       Hoe?                       |                                     Link(s)                                      |  
 |:------------------------:|:------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------------------------------:|
-|            ✅             |          MicroPython installeren           |   Volg tutorial (leaphy-micropython nog niet)    |        [Tutorial - Installatie](../../../category/tutorial---installatie)        |  
-|            ⚠️            |          Doosje met jullie namen           | Pak een doos, vouw hem, en zet jullie namen erop |                                                                                  |
+|            ✅             |          MicroPython installeren (is al voor je gedaan)          |   Ga naar volgende stap    |        [Tutorial - Installatie](../../../category/tutorial---installatie)        |  
+|            ✅            |          Doosje met jullie namen           | Pak een plastic doosje en een deksel |                                                                                  |
 |            ✅             |         Ingebouwd lampje aanzetten         |                  Volg tutorial                   |   [Tutorial - ingebouwd lampje](../../../category/tutorial---ingebouwd-lampje)   |   
 |            ✅             |       De spanning van een pin meten        |                  Volg tutorial                   |     [Tutorial - Meten is weten](../../../category/tutorial---meten-is-weten)     |
 |            ✅             | Digitale IR-sensor aansluiten en uitlezen  |                  Volg tutorial                   | [Tutorial - Digitale IR-sensor](../../../category/tutorial---digitale-ir-sensor) |
