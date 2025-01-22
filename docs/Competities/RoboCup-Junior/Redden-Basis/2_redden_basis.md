@@ -20,5 +20,6 @@ Redden Basis bestaat uit:
 - [Grijpen van ballen](8_grijpen_van_een_bal.md)
 - [detectie van eindpunt](9_detectie_eindpunt.md)
 
-
+Welke pinnen gebruik je voor wat?
+- [Arduino Nano RP2040 Connect](10_pinnen_nano_connect.md)
 
