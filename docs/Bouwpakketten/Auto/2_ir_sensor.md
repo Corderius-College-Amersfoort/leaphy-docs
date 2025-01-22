@@ -2,8 +2,12 @@
 sidebar_position: 2
 ---
 
-# IR-sensor
+# IR-sensor verbinden aan frame met 3D geprint onderdeel
 
+![0](ir_0.jpg)
+![1](ir_1.jpg)
+![2](ir_2.jpg)
+![3](ir_3.jpg)
 
 
 
