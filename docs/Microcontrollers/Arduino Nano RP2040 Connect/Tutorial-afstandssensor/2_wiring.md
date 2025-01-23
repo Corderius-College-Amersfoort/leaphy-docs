@@ -7,6 +7,7 @@ sidebar_position: 2
 ## Voorbeeld van aansluiten
 
 ![rcwl-1601](nano_rp2040_hcsr04_bb.svg)
+![pinnen_rp2040](/img/pinout_nano_rp2040_connect.png)
 
 ## Code
 

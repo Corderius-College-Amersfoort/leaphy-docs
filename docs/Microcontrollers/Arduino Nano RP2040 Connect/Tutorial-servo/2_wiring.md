@@ -6,6 +6,8 @@ sidebar_position: 2
 # Hoe sluit je een servo aan op een Nano RP2040 Connect?
 
 ![servo](nano_rp2040_servo.svg)
+![pinnen_rp2040](/img/pinout_nano_rp2040_connect.png)
+
 ## De pinnen van de servo uitgelegd:
 
 Gnd (De het bruine kabeltje): De min

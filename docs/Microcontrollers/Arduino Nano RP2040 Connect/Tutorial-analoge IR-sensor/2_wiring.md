@@ -9,6 +9,7 @@ sidebar_position: 2
 Hierbij een voorbeeld van hoe je een analoge ir-sensor kunt aansluiten en kunt uitlezen.
 
 ![analoge ir-sensor](nano_rp2040_analog_ir_sensor.svg)
+![pinnen_rp2040](/img/pinout_nano_rp2040_connect.png)
 
 ## De code
 Eerst moet je de juiste library importeren:

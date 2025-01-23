@@ -7,6 +7,7 @@ sidebar_position: 2
 # Hoe sluit je een digitale IR-sensor aan op een RP2040 connect?
 
 ![digital_ir_sensor](nano_rp2040_digital_ir_sensor.svg)
+![pinnen_rp2040](/img/pinout_nano_rp2040_connect.png)
 
 # Code
 
@@ -21,13 +22,9 @@ Dan gebruik je een loop om steeds de ir-sensor uit te lezen en dan krijg je een
 1 of een 0 terug want het is digitaal
 ```py
 while True:
-print(read_line_sensor(14))
-sleep(1)
+    print(read_line_sensor(14))
+    sleep(1)
 ```
-
-
-
-
 
 
 ## Pinnen van de digitale IR-sensor:

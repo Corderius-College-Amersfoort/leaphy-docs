@@ -7,6 +7,7 @@ sidebar_position: 2
 ## aansluiten
 
 ![led](nano_rp2040_led_bb.svg)
+![pinnen_rp2040](/img/pinout_nano_rp2040_connect.png)
 
 ## code
 

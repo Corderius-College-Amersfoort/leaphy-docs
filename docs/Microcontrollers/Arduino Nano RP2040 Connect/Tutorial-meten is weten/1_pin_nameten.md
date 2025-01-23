@@ -7,6 +7,7 @@ sidebar_position: 1
 ## Aansluiten
 
 ![pin_nameten](nano_rp2040_pin_nameten.svg)
+![pinnen_rp2040](/img/pinout_nano_rp2040_connect.png)
 
 ## Code
 
