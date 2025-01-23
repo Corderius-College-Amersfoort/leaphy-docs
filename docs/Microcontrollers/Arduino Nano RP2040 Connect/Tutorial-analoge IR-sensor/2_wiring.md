@@ -9,6 +9,9 @@ sidebar_position: 2
 Hierbij een voorbeeld van hoe je een analoge ir-sensor kunt aansluiten en kunt uitlezen.
 
 ![analoge ir-sensor](nano_rp2040_analog_ir_sensor.svg)
+
+### Let op: de sensor is hetzelfde als bij de Digitale IR-sensor, maar de aansluiting is anders!
+
 ![pinnen_rp2040](/img/pinout_nano_rp2040_connect.png)
 
 ## De code

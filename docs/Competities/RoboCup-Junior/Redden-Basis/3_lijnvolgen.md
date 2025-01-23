@@ -24,4 +24,3 @@ Je zou ook kunnen denken aan lijnvolgen met:
 - Ambient light sensoren samen met een lichtbron
 
 Vraag aan je docent of deze sensoren beschikbaar zijn.
-
