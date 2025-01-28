@@ -26,6 +26,20 @@ while True:
     sleep(1)
 ```
 
+## Hoe kan ik deze sensor gebruiken bij de RoboCup?
+
+Pak een tegel van de RoboCup competitie (maakt niet uit welke):
+
+![tegel](image.png)
+
+
+Houd je IR sensor boven de tegel. Wanneer geeft:
+- `read_line_sensor(14)` de waarde 1
+- `read_line_sensor(14)` de waarde 0
+
+Je kunt bij het digitaal uitlezen (deze tutorial) de sensor stellen met een schroevendraaier. Je verandert dan de overgang van wat de sensor denkt dat de overgang is van zwart naar wit.
+
+Zie voor meer informatie: [Redden Basis](/docs/Competities/RoboCup-Junior/Redden-Basis/redden_basis)
 
 ## Pinnen van de digitale IR-sensor:
 VCC: De plus (3.3v)

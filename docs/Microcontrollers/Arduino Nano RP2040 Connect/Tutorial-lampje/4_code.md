@@ -22,7 +22,7 @@ pin_7.on()
 
 Als het goed is zie je nu je lampje branden!
 
-# De pinnen van het lampje:
+## De pinnen van het lampje:
 
 Vcc (De lange pin): De plus
 
