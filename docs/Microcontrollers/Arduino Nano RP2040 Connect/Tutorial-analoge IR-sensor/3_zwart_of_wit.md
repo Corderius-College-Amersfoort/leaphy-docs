@@ -26,7 +26,7 @@ while True:
 Wat betekenen alle opties in de functie?
 - **pin**: dit is de pin op je Arduino die het signaal uitleest, hierbij **D14**
 - **below_white**: onder welk getal vind jij dat de sensor wit ziet?
-- **above_blakc**: boven welk getal vind jij dat de sensor zwart ziet?
+- **above_black**: boven welk getal vind jij dat de sensor zwart ziet?
 - **test='yes'**: als je testen op 'ja' zet, dan zie je in de Shell de waarde en welke kleur jij vindt die hoort bij de waarde.
 
 Zodra we zeker zijn van de waardes, kunnen we de code op de volgende manier gebruiken in ons project:
