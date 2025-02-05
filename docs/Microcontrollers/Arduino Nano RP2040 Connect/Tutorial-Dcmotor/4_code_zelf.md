@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 # Code zonder package
@@ -22,13 +22,15 @@ pwm_b.freq(5000)
 enable_b = Pin("D4", Pin.OUT)
 enable_b.value(0) # # wissel tussen 0 en 1 voor vooruit en achteruit
 
-while True:
 
-    # motor a
-    pwm_a.duty_u16(220 * 257) # getal tussen 0 en 65534
-    
-    # motor b
-    pwm_b.duty_u16(200 * 257) # getal tussen 0 en 65534
-    
-    sleep(1)
+# motor a: kies getal tussen 0 en 65535
+pwm_a.duty_u16(65535) # we zetten hem op de hoogste snelheid
+sleep(2) # wacht 2 seconden
+pwm_a.duty_u16(0) # we zetten de motor uit
+
+# motor b
+pwm_b.duty_u16(65535) # we zetten de andere motor op de hoogste snelheid
+sleep(2) # wacht 2 seconden
+pwm_a.duty_u16(0) # we zetten de andere motor uit
+
 ```
