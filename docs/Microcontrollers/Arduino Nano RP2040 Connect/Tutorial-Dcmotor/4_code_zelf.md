@@ -31,6 +31,6 @@ pwm_a.duty_u16(0) # we zetten de motor uit
 # motor b
 pwm_b.duty_u16(65535) # we zetten de andere motor op de hoogste snelheid
 sleep(2) # wacht 2 seconden
-pwm_a.duty_u16(0) # we zetten de andere motor uit
+pwm_b.duty_u16(0) # we zetten de andere motor uit
 
 ```
