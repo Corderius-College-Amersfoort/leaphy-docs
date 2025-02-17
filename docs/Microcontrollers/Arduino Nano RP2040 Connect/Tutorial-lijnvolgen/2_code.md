@@ -9,6 +9,7 @@ sidebar_position: 1
 ```py
 from machine import Pin, PWM
 from time import sleep
+from leaphymicropython.sensors.linesensor import calibrate_analog_line_sensor
 
 # motor a
 pwm_a = PWM(Pin("D3"))
