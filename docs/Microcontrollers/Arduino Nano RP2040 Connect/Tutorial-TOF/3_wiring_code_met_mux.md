@@ -22,5 +22,5 @@ while True:
 ```
 
 ## Let op
-Dat je **channel** op het goed getal zet. 
-In het voorbeeld hebben we verbonden met channel 7. Zie het geval zeven boven de verbonden pinnen.
+Dat je **channel** op het goede getal zet. 
+In het voorbeeld hebben we de sensor verbonden met channel 7. Dit kun je weten vanwege het getal zeven boven de verbonden pinnen.
