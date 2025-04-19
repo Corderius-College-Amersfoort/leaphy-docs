@@ -17,6 +17,8 @@ from time import sleep
 tof = TimeOfFlight()
 
 while True:
-    print(tof.get_distance())
+    distance = tof.get_distance()
+
+    print(distance)
     sleep(1)
 ```
