@@ -1,36 +1,28 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Wiring & Code
+# Wiring & Code met multiplexer
 
-![oled](nano_rp2040_oled.svg)
+![oled_mux](nano_rp2040_oled_mux.png)
+
 ## Code
 
 Eerst moet je de juiste library importeren:
 
 ```py
-from leaphymicropython.actuators.ssd1306 import SSD1306, SSD1306_I2C
+from leaphymicropython.actuators.ssd1306 import SSD1306I2C
 ```
 Met deze code kun je tekst weergeven op een OLED-scherm via I2C-communicatie. Dit voorbeeld laat zien hoe je de boodschap "Hello, World!" meerdere keren op het scherm kunt tonen.
 
 ## Uitleg van de Code
 
-### Initialisatie
-Je begint met het importeren van de benodigde modules en het configureren van de I2C-pins. Hier wordt GPIO 12 (SDA) en GPIO 13 (SCL) gebruikt, maar je kunt andere pins kiezen die geschikt zijn voor jouw board.
+Vervolgens definieer je de breedte en hoogte van het OLED-scherm. Dit voorbeeld gebruikt 
+- een scherm met een resolutie van 128x64 pixels.
+- channel 7 van de multiplexer
 
 ```py
-i2c = SoftI2C(scl=Pin(13), sda=Pin(12))
-```
-Vervolgens definieer je de breedte en hoogte van het OLED-scherm. Dit voorbeeld gebruikt een scherm met een resolutie van 128x64 pixels.
-```py
-oled_width = 128
-oled_height = 32
-```
-Daarna maak je een object van het type SSD1306_I2C om het scherm te beheren.
-
-```py
-oled = ssd1306.SSD1306_I2C(oled_width, oled_height, i2c)
+oled = SSD1306I2C(width=128, height=64, channel=7)
 ```
 ## Tekst Weergeven
 
