@@ -33,6 +33,7 @@ Er zijn verschillende webshops nodig om het hele project te kunnen maken.
 | 1| SDA/SCL module Leaphy Murphy shield | [SDA/SCL module Leaphy Murphy shield](https://leaphy.store/product/sda-scl-module-leaphy-murphy-shield-2/) |
 | 2 | TT Motor (voor Leaphy Original) jumper 10 cm male | [TT Motor (voor Leaphy Original) jumper 10 cm male](https://leaphy.store/product/motor/) |
 | 3 | Time of Flight (TOF) sensor | [Time of Flight (TOF) sensor](https://leaphy.store/product/tof-sensor/) | 
+| 1 | Adapter voor Murphy en Delphy shield | [Adapter voor Murphy en Delphy shield](https://leaphy.store/product/adapter-voor-murphy-en-delphy-shield/)
 
 ### Sensoren en actuatoren bij andere webshops
 
