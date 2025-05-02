@@ -37,15 +37,15 @@ Er zijn verschillende webshops nodig om het hele project te kunnen maken.
 
 ### Sensoren en actuatoren bij andere webshops
 
-| Aantal | Onderdeel | Link |
+| Aantal | Onderdeel | Mogelijke website (als hulp bij zoeken naar goede site) |
 |:---:|---|---|
-| 1 | Plastic doosje om project in op te bergen | - | 
-| 4 | TCRT5000 IR Infrarood Reflectie Sensor | - |
-| 6 | AA-batterijen | - |
+| 1 | SmartStore Classic Opbergdoos 3,6 l Met deksel Transparant 19 x 30 x 11 cm | [viking](https://www.vikingdirect.nl/nl/smartstore-classic-opbergdoos-3-6-l-transparant-19-x-30-x-11-cm-p-1292072) | 
+| 4 | TCRT5000 Tracking Sensor Module (leg heel goed op dat deze past op het 3D-model) | [tinytronics](https://www.tinytronics.nl/nl/sensoren/optisch/infrarood/tcrt5000-tracking-sensor-module) |
+| 1 | 128X64 OLED wit i2c display module (essentieel is dat de pinvolgorde is GND, VCC, SCL, SDA) | [tinytronics](https://www.tinytronics.nl/en/displays/oled/1.3-inch-oled-display-128*64-pixels-white-i2c)  |
+| 6 | AA-batterijen | [batterijenhuis](https://www.batterijenhuis.nl/aa-alkaline-batterijen-60x?sqr=aa) |
 | 1 | 6-AA Battery Holder, Enclosed with Switch | [Polulu](https://www.pololu.com/product/1771) |
-| 1 | 128X64 OLED wit i2c display module | - |
-| - | Jumper wires | - | 
-| - | Jumperkabel female/female 4 pins | - |
+| - | DuPont Jumper wire Female-Femal (voor IR-sensor) | [tinytronics](https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/prototyping-wires/dupont-compatible-and-jumper/dupont-jumper-wire-female-female-30cm-10-wires) | 
+| - | Jumperkabel female/female 4 pins (voor TOF en OLED) | [bitsandparts](https://www.bitsandparts.nl/Jumperkabel-female-female-4-pins-20cm-p1905625) |
 
 ### 3D-onderdelen   
 | Aantal | Onderdeel | Link |
