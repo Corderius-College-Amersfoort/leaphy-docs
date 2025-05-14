@@ -50,7 +50,7 @@ Er zijn verschillende webshops nodig om het hele project te kunnen maken.
 ### 3D-onderdelen   
 | Onderdeel | Links | Credits | Licentie |
 |:---:|---|---|---|
-| TT-motor deel 1 | [.stl](3d_models/Lego-TT%202%201.stl) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
+| TT-motor deel 1 | [.stl](3d_models/Lego-TT%201%202.stl) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
 | TT-motor deel 2 | [.stl](3d_models/Lego-TT%202%202.stl) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
 | TT-motor naar wiel adapter | [.stl](3d_models/Motor%20naar%20wiel%20adapter%20Joep.stl) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
 | Lijnsensor | [.stl](3d_models/Lijn%20sensor%20Lego%20adapter%20Joep.stl) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
