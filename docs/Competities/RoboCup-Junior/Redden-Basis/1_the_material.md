@@ -54,6 +54,8 @@ Er zijn verschillende webshops nodig om het hele project te kunnen maken.
 | TT-motor deel 2 | [.stl](3d_models/Lego-TT%202%202.stl) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
 | TT-motor naar wiel adapter | [.stl](3d_models/Motor%20naar%20wiel%20adapter%20Joep.stl) [.f3d](3d_models/TT%20Motor%20to%20Lego%20V2%20v11.f3d) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
 | Lijnsensor | [.stl](3d_models/Lijn%20sensor%20Lego%20adapter%20Joep.stl) [.f3d](3d_models/Lijn%20sensor%20lego%20adapter%20door%20Joep%20v9.f3d) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
+| TOF sensor | [.stl](3d_models/TOF%20Mount%20-%20main.stl) [.step](3d_models/TOF%20Mount%20-%20main.step) | Joost Kramer | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
+| OLED-scherm | [.stl](3d_models/Oled%20128x64%20Adapter%20-%20Main.stl) [.step](3d_models/Oled%20128x64%20Adapter%20-%20Main.step) | Joost Kramer | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
 
 
 
