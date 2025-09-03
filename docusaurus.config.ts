@@ -54,6 +54,18 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'lego_auto',
+        path: 'lego_auto',
+        routeBasePath: 'lego_auto',
+        sidebarPath: './sidebarsLegoAuto.ts',
+      },
+    ],
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
@@ -64,7 +76,14 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Bibliotheek',
+        },
+        {
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'Lego-auto',
+          docsPluginId: 'lego_auto',
         },
         {
           href: 'https://github.com/Corderius-College-Amersfoort/leaphy-docs',
