@@ -50,21 +50,31 @@ Er zijn verschillende webshops nodig om het hele project te kunnen maken.
 ### 3D-onderdelen   
 | Onderdeel | Links | Credits | Licentie |
 |:---:|---|---|---|
-| TT-motor deel 1 | [.stl](3d_models/Lego-TT%201%202.stl) [.f3d](3d_models/TT%20Motor%20Wheel%20Lego%20Adapter%20Joep%20v5.f3d) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
-| TT-motor deel 2 | [.stl](3d_models/Lego-TT%202%202.stl) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
-| TT-motor naar wiel adapter | [.stl](3d_models/Motor%20naar%20wiel%20adapter%20Joep.stl) [.f3d](3d_models/TT%20Motor%20to%20Lego%20V2%20v11.f3d) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
+| TT-motor deel 1 | [.stl](3d_models/v2/Lego-TT%201.stl)  | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
+| TT-motor deel 2 | [.stl](3d_models/v2/Lego-TT%202.stl) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
+| TT-motor naar wiel adapter | [.stl](3d_models/v2/LEGO%20tandwiel%20naar%20TT.stl) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
 | Lijnsensor | [.stl](3d_models/Lijn%20sensor%20Lego%20adapter%20Joep.stl) [.f3d](3d_models/Lijn%20sensor%20lego%20adapter%20door%20Joep%20v9.f3d) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
 | TOF sensor | [.stl](3d_models/TOF%20Mount%20-%20main.stl) [.step](3d_models/TOF%20Mount%20-%20main.step) | Joost Kramer | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
 | m2x5mm schroef (nodig voor TOF model) | [rvspaleis](https://www.rvspaleis.nl/bouten/kruisgleuf/din-7985/din-7985-[-]-a2-[-]-m2/7985-2-2x5_1) | | 
 | OLED-scherm (enable support in slicer) | [.stl](3d_models/Oled%20128x64%20Adapter%20-%20Main.stl) [.step](3d_models/Oled%20128x64%20Adapter%20-%20Main.step) | Joost Kramer | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
 
 
+#### Oudere versie van 3D-onderdelen
+| Onderdeel | Links | Credits | Licentie |
+|:---:|---|---|---|
+| TT-motor deel 1 | [.stl](3d_models/Lego-TT%201%202.stl) [.f3d](3d_models/TT%20Motor%20Wheel%20Lego%20Adapter%20Joep%20v5.f3d) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
+| TT-motor deel 2 | [.stl](3d_models/Lego-TT%202%202.stl) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
+| TT-motor naar wiel adapter | [.stl](3d_models/Motor%20naar%20wiel%20adapter%20Joep.stl) [.f3d](3d_models/TT%20Motor%20to%20Lego%20V2%20v11.f3d) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
+
+
 
 
 
 ### Lego
-| Aantal | Onderdeel | Link |
-|:---:|---|---|
+ | Item | Link |
+|:---:|---|
+| BrickLink Studio bestand | [download hier](lego/v3.io) | 
+| Materiaallijst die je kan uploaden bij Pick a prick voor bestellen lego | [download hier](lego/v3.csv) |
 
 ### [Competitie-onderdelen](https://www.robocupjunior.nl/redden-basis/)
 | Aantal | Onderdeel | Link |
