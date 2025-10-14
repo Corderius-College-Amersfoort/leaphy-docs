@@ -7,43 +7,34 @@ sidebar_position: 1
 ## Voorbeeld code
 
 ```py
-from machine import Pin, PWM
-from time import sleep
-from leaphymicropython.sensors.linesensor import calibrate_analog_line_sensor
+from leaphymicropython.sensors.linesensor import AnalogIR
+from leaphymicropython.actuators.dcmotor import DCMotors
 
-# motor a
-pwm_a = PWM(Pin("D3"))
-pwm_a.freq(5000)
-enable_a = Pin("D2", Pin.OUT)
-enable_a.value(0) # wissel tussen 0 en 1 voor vooruit en achteruit
+motoren = DCMotors()
+motor_a = motoren.motor_a
+motor_b = motoren.motor_b
 
-# motor b
-pwm_b = PWM(Pin("D11"))
-pwm_b.freq(5000)
-enable_b = Pin("D4", Pin.OUT)
-enable_b.value(0) # # wissel tussen 0 en 1 voor vooruit en achteruit
+a0 = AnalogIR("A0", 2500) # we gaan ervan uit dat A0 de linker sensor is
+a1 = AnalogIR("A1", 2500) # we gaan ervan uit dat A1 de rechter sensor is
 
 while True:
-    left = calibrate_analog_line_sensor(pin=14,
-                                        below_white=4000,
-                                        above_black=6000,
-                                        test='no') # verander 'no' naar 'yes' voor het kalibreren
-    right = calibrate_analog_line_sensor(pin=15,
-                                         below_white=4000,
-                                         above_black=6000,
-                                         test='no') # verander 'no' naar 'yes' voor het kalibreren
+    a0_ir = a0.get_analog_value()
+    left = a0.black_or_white()
+
+    a1_ir = a1.get_analog_value()
+    right = a1.black_or_white()
+
     if left == 'white' and right == 'white':
-        # vooruit
-        pwm_a.duty_u16(65535) # motor a op de hoogste snelheid
-        pwm_b.duty_u16(65535) # motor b op de hoogste snelheid
+        motor_a.forward(255)
+        motor_b.forward(255)
     if left == 'white' and right == 'black':
         # links bijsturen
-        pwm_a.duty_u16(65535) # welke motor wil je op 0 zetten?
-        pwm_b.duty_u16(65535) # welke motor wil je op 0 zetten?
+        motor_a.forward(255) # welke motor wil je lager zetten om te sturen?
+        motor_b.forward(255) # welke motor wil je lager zetten om te sturen?
     if left == 'black' and right == 'white':
         # rechts bijsturen
-        pwm_a.duty_u16(65535) # welke motor wil je op 0 zetten?
-        pwm_b.duty_u16(65535) # welke motor wil je op 0 zetten?
+        motor_a.forward(255) # welke motor wil je lager zetten om te sturen?
+        motor_b.forward(255) # welke motor wil je lager zetten om te sturen?
     sleep(0.01) # geef de robot even tijd om na te denken
 ```
 
