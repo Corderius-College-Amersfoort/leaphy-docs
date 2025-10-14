@@ -6,7 +6,7 @@ sidebar_position: 1
 
 |  Kan ik het gebruiken?   |                    Doel                    |                       Hoe?                       |                                     Link(s)                                      |  
 |:------------------------:|:------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------------------------------:|
-|            ✅             |         Bouw je frame          |   Volg tutorial    |        [Frame bouwen](/docs/Bouwpakketten/Auto/bouwen)        |  
+|            ✅             |         Bouw je frame          |   Volg tutorial    |        [Frame bouwen](/lego_auto/intro)        |  
 |            ✅             |          MicroPython installeren (is al voor je gedaan)          |   Ga naar volgende stap    |        [Tutorial - Installatie](/docs/category/tutorial---installatie)        |  
 |            ✅            |          Doosje met jullie namen           | Pak een plastic doosje en een deksel |                                                                                  |
 |            ✅             |         Ingebouwd lampje aanzetten         |                  Volg tutorial                   |   [Tutorial - ingebouwd lampje](/docs/category/tutorial---ingebouwd-lampje)   |   
