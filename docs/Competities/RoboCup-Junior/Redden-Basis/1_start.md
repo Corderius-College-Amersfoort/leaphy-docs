@@ -6,7 +6,6 @@ sidebar_position: 1
 
 |  Kan ik het gebruiken?   |                    Doel                    |                       Hoe?                       |                                     Link(s)                                      |  
 |:------------------------:|:------------------------------------------:|:------------------------------------------------:|:--------------------------------------------------------------------------------:|
-|            ✅             |      DC-motor aansluiten op je frame      |                  Volg tutorial                   |           [Tutorial - DC-motor verbinden met frame](/docs/Bouwpakketten/Auto/dc_motor)            |
 |            ✅            | De robot laten werken met een battery pack |                  Volg tutorial                   |         [Tutorial - Batterijen](/docs/category/tutorial---batterijen)         |
 |            ✅            | Informatie tonen op een schermpje |                  Volg tutorial                   |         [Tutorial - Oled scherm](/docs/category/tutorial---oled-scherm)         |
 |            ✅            | lijnvolgen |                  Volg tutorial                   |         [Tutorial - lijnvolgen](/docs/category/tutorial---lijnvolgen)         |
