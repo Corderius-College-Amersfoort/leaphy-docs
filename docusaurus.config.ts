@@ -86,6 +86,11 @@ const config: Config = {
           docsPluginId: 'lego_auto',
         },
         {
+          to: '/docs/Competities/RoboCup-Junior/Redden-Basis/start',
+          label: 'Redden basis overzicht',
+          position: 'left'
+        },
+        {
           href: 'https://github.com/Corderius-College-Amersfoort/leaphy-docs',
           label: 'GitHub',
           position: 'right',
