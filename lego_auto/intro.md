@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Frame
 
 We beginnen met lego :) en we gaan het volgende namaken:

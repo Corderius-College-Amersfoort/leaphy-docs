@@ -1,5 +1,3 @@
-
-
 # Help ons dit project beter te maken
 Hoe kun je helpen om dit project te verbeteren?
 
