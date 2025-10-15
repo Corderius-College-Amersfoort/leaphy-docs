@@ -70,7 +70,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Leaphy-docs',
+      title: 'Home',
       items: [
         {
           type: 'docSidebar',

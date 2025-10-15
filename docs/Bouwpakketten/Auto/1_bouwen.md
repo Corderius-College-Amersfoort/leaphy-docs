@@ -2,7 +2,6 @@
 sidebar_position: 1
 tags: [verbeter-het]
 ---
-import SharedContent from '../../../docs/Microcontrollers/Arduino Nano RP2040 Connect/Tutorial-analoge IR-sensor/2_wiring.md';
 
 <SharedContent />
 # Frame in elkaar zetten
