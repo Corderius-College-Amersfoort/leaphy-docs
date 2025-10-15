@@ -3,7 +3,6 @@ sidebar_position: 1
 tags: [verbeter-het]
 ---
 
-<SharedContent />
 # Frame in elkaar zetten
 
 Pak een plastic zakje met onderdelen en volg de volgende instructies: 
