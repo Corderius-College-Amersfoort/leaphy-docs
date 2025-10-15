@@ -47,7 +47,16 @@ Er zijn verschillende webshops nodig om het hele project te kunnen maken.
 | - | DuPont Jumper wire Female-Femal (voor IR-sensor) | [tinytronics](https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/prototyping-wires/dupont-compatible-and-jumper/dupont-jumper-wire-female-female-30cm-10-wires) | 
 | - | Jumperkabel female/female 4 pins (voor TOF en OLED) | [bitsandparts](https://www.bitsandparts.nl/Jumperkabel-female-female-4-pins-20cm-p1905625) |
 
-### 3D-onderdelen   
+### Nieuwste 3D-onderdelen 
+| Onderdeel | Links | Credits | Licentie |
+|:---:|---|---|---|
+| OLED scherm connector | [.stl](3d_models/v3/128x64_Oled_connector.stl) [.step](3d_models/v3/128x64_Oled_connector.step)  | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
+| TOF connector | [.stl](3d_models/v3/TOF_connector.stl) [.step](3d_models/v3/TOF_connector.step)  | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
+| Lijnsensor connector | [.stl](3d_models/v3/Lijnsensor_connector.stl) [.step](3d_models/v3/Lijnsensor_connector.step) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
+| Tandwiel | [.stl](3d_models/v3/32270_TT_motor.stl) [.step](3d_models/v3/32270_TT_motor.step) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
+
+
+#### Oudere versie van 3D-onderdelen
 | Onderdeel | Links | Credits | Licentie |
 |:---:|---|---|---|
 | TT-motor deel 1 | [.stl](3d_models/v2/Lego-TT%201.stl)  | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
@@ -59,16 +68,11 @@ Er zijn verschillende webshops nodig om het hele project te kunnen maken.
 | OLED-scherm (enable support in slicer) | [.stl](3d_models/Oled%20128x64%20Adapter%20-%20Main.stl) [.step](3d_models/Oled%20128x64%20Adapter%20-%20Main.step) | Joost Kramer | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
 
 
-#### Oudere versie van 3D-onderdelen
 | Onderdeel | Links | Credits | Licentie |
 |:---:|---|---|---|
 | TT-motor deel 1 | [.stl](3d_models/Lego-TT%201%202.stl) [.f3d](3d_models/TT%20Motor%20Wheel%20Lego%20Adapter%20Joep%20v5.f3d) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
 | TT-motor deel 2 | [.stl](3d_models/Lego-TT%202%202.stl) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
 | TT-motor naar wiel adapter | [.stl](3d_models/Motor%20naar%20wiel%20adapter%20Joep.stl) [.f3d](3d_models/TT%20Motor%20to%20Lego%20V2%20v11.f3d) | [Joep van der Zee](https://www.linkedin.com/in/joepvdzee/) | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.nl) |
-
-
-
-
 
 ### Lego
  | Item | Link |
