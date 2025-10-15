@@ -1,8 +1,0 @@
-{
-  "label": "Bouwpakketten",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "Kies welk pakket je gaat bouwen"
-  }
-}
