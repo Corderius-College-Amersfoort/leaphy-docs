@@ -4,4 +4,4 @@ sidebar_position: 2
 
 # Doosje
 
-Kies een bak of doosje waarin je het project gaat bewaren.
+Zoek een bak of doosje om alle onderdelen van je project in te bewaren.

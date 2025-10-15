@@ -13,14 +13,13 @@ Verbind je microcontroller met je computer.
 Ben je vergeten hoe dit moest? Bekijk dan de vorige stap.
 
 ## Stap 3: kies een poort
-Klik rechtsonder in Thonny en kies wat begint met MicroPython.
+Klik rechtsonder in Thonny en kies de optie die begint met `MicroPython`.
 
 ![kies poort](kies_micropython.png)
 
-## Stap het werkt niet:
+## Wat als het niet werkt?
 
-Soms kan je computer geen RP2040 Connect (of andere microcontroller) vinden dan moet
-je naar: configure interpreter als je daar op hebt geklikt dan krijg je dit scherm:
+Soms kan je computer de RP2040 Connect (of een andere microcontroller) niet vinden. In dat geval moet je de interpreter handmatig configureren. Klik rechtsonder op `Configure interpreter...`. Je krijgt dan dit scherm:
 ![kies interpreter](interpreter.png)
 
 Kies:

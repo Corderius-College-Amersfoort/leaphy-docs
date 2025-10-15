@@ -1,21 +1,22 @@
 ---
 sidebar_position: 3
+hide_table_of_contents: true
 ---
 
 # Verbinden met je computer via USB-kabel
 
 We gaan eerst je microcontroller verbinden met je computer.
 
-## Hoe?
-Je hebt een kabel nodig van 
+## Wat heb je nodig?
+Je hebt een USB-kabel nodig met de volgende twee aansluitingen:
 
-### USB-A
+### USB-A (voor de computer)
 
 ![usb_a](usb_a.png)
 
-### naar micro-USB
+### Micro-USB (voor de microcontroller)
 
 ![usb_micro](usb_micro.png)
 
 ## Verbinden
-Verbind de USB-A met je computer en de micro-USB met je microcontroller. Als het goed is, zie je linksboven een groen licht aanstaan!
+Verbind de USB-A-kant van de kabel met je computer en de micro-USB-kant met je microcontroller. Als de verbinding succesvol is, gaat er een groen lampje op de microcontroller branden.
