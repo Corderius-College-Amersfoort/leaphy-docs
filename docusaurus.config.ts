@@ -86,6 +86,11 @@ const config: Config = {
           docsPluginId: 'lego_auto',
         },
         {
+          to: '/docs/Microcontrollers/Arduino Nano RP2040 Connect/Tutorial-debuggen/debuggen',
+          label: 'Er gaat iets mis',
+          position: 'left',   
+          },
+        {
           href: 'https://github.com/Corderius-College-Amersfoort/leaphy-docs',
           label: 'GitHub',
           position: 'right',
