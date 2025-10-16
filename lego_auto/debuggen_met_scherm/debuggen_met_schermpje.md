@@ -21,8 +21,8 @@ while True:
     a0_color = a0.black_or_white()
     
     oled.fill(1)  # Scherm volledig wit maken
-    oled.text('Waarde A0', str(a0_ir), 0, 0) # Tekst op x=0, y=0
-    oled.text('Kleur van A0', a0_color, 0, 10) # Tekst op x=0, y=10 (dus eronder)
+    oled.text('Waarde A0 ' + str(a0_ir), 0, 0) # Tekst op x=0, y=0
+    oled.text('Kleur van A0 ' + a0_color, 0, 10) # Tekst op x=0, y=10 (dus eronder)
     oled.show()   # toon op het schermpje
     sleep(0.01)
 ```
