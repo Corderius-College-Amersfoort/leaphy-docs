@@ -8,15 +8,12 @@ hide_table_of_contents: true
 We gaan eerst je microcontroller verbinden met je computer.
 
 ## Wat heb je nodig?
-Je hebt een USB-kabel nodig met de volgende twee aansluitingen:
+1. Je hebt een USB-kabel nodig van USB-A naar micro-USB
+2. De Arduino Nano RP2040 Connect 
 
-### USB-A (voor de computer)
+![frame](@site/static/fritzing/nano_rp2040_verbinden_bb.png)
 
-![usb_a](usb_a.png)
-
-### Micro-USB (voor de microcontroller)
-
-![usb_micro](usb_micro.png)
-
-## Verbinden
 Verbind de USB-A-kant van de kabel met je computer en de micro-USB-kant met je microcontroller. Als de verbinding succesvol is, gaat er een groen lampje op de microcontroller branden.
+
+## Wanneer heb ik deze stap gehaald?
+Als het groene lampje op de Arduino Nano Connect brandt!

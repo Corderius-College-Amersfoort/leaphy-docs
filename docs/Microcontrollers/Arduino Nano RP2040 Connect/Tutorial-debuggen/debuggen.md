@@ -22,11 +22,16 @@ Hieronder vind je een lijst met veelvoorkomende problemen en tips om ze op te lo
 
 <details>
     <summary>Mijn computer heeft geen verbinding met de robot</summary>
-
   - **Controleer de USB-kabel:** Is de kabel goed aangesloten op zowel de computer als de microcontroller? Probeer een andere USB-poort of een andere kabel.
   - **Controleer de interpreter**: Staat er rechtsonder in Thonny iets wat begint met `Micropython (RP2040)...`, dan is alles goed! Zo niet, klik dan rechtsonder en kies wat begint met `Micropython (RP2040)`.
   - **Controleer de poortinstellingen in Thonny:** Ga naar `Run > Configure interpreter...` en zorg ervoor dat de juiste poort is geselecteerd. Soms helpt het om de microcontroller los te koppelen en opnieuw aan te sluiten, en dan in Thonny op de 'Stop/Restart backend' knop te drukken.
+</details>
 
+<details>
+  <summary>Mijn computer heeft alleen maar USB-C ingangen</summary>
+
+Dan heb je een zeer moderne laptop! Heb je toevallig een USB-C naar USB-A adapter?
+Overleg anders even met je docent!
 </details>
 
 ## IR-sensoren
