@@ -2,14 +2,13 @@
 sidebar_position: 1
 hide_table_of_contents: true
 ---
-import PdfFile from '@site/static/files/v3.pdf';
+import PdfFile from '@site/static/bricklink_studio/v3.pdf';
 
 # Frame
 
 We beginnen met Lego. We gaan het onderstaande frame namaken:
 
-![frame](./v3_2.png)
-
+![frame](@site/static/bricklink_studio/v3.png)
 
 ## Hoe?
  
