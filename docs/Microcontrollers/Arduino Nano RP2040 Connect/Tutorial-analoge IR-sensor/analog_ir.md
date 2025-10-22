@@ -7,10 +7,11 @@ sidebar_position: 2
 
 Hierbij een voorbeeld van hoe je een analoge ir-sensor kunt aansluiten en kunt uitlezen.
 
-![1 analog ir met shield](1_analog_ir_with_shield.png)
+![1 analog ir met shield](@site/static/fritzing/analog_ir_shield_bb.png)
 
 ```python
 from leaphymicropython.sensors.linesensor import AnalogIR
+from time import sleep
 
 a0 = AnalogIR("A0", 2500)
 
@@ -20,6 +21,7 @@ while True:
     
     print()
     print(a0_ir, a0_color)
+    sleep(0.01)
 ```
 Wat gebeurt hier?
 

@@ -6,9 +6,10 @@ sidebar_position: 1
 
 Wat heb je nodig?
 
-- Nano RP2040 Connect
-- Analoge IR-sensor (zie afbeelding hieronder)
-- Leaphy Murphy Shield (zie afbeelding hieronder)
+
+1. Nano RP2040 Connect
+2. Analoge IR-sensor (zie afbeelding hieronder)
+3. Leaphy Murphy Shield (zie afbeelding hieronder)
 
 
 ## Analoge IR-sensor

@@ -10,6 +10,7 @@ Hierbij een voorbeeld van hoe je twee analoge ir-sensoren kunt aansluiten en kun
 
 ```python
 from leaphymicropython.sensors.linesensor import AnalogIR
+from time import sleep
 
 a0 = AnalogIR("A0", 2500)
 a1 = AnalogIR("A1", 2500)
@@ -24,4 +25,5 @@ while True:
     print()
     print(a0_ir, a0_color) # waardes verbonden aan A0
     print(a1_ir, a1_color) # waardes verbonden aan A1
+    sleep(0.01)
 ```
