@@ -3,7 +3,6 @@ BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCatego
 2780,6279875,2780.dat,"Technic, Pin with Short Friction Ridges",11,0,Black,Solid Colors,25,0.16
 4265c,6271167,32123a.dat,Technic Bush 1/2 Smooth,3,14,Yellow,Solid Colors,6,0.1
 32140,6271824,32140.dat,"Technic, Liftarm, Modified Bent Thick L-Shape 2 x 4",1,15,White,Solid Colors,2,1.43
-32271,6276842,32271.dat,"Technic, Liftarm, Modified Bent Thick 1 x 9 (7 - 3)",1,15,White,Solid Colors,2,0
 32278,6151070,32278.dat,"Technic, Liftarm Thick 1 x 15",63,272,Dark Blue,Solid Colors,5,4.0
 32498,4255563,32498.dat,"Technic, Gear 36 Tooth Double Bevel",11,0,Black,Solid Colors,2,3.5
 32526,4585040,32526.dat,"Technic, Liftarm, Modified Bent Thick L-Shape 3 x 5",1,15,White,Solid Colors,2,1.77
@@ -15,7 +14,8 @@ BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCatego
 50451,6317564,50451.dat,"Technic, Axle 16L",11,0,Black,Solid Colors,1,2.37
 64179,6016156,64179.dat,"Technic, Liftarm, Modified Frame Thick 5 x 7 Open Center",1,15,White,Solid Colors,2,0
 6558,6299413,6558.dat,"Technic, Pin 3L with Friction Ridges",7,1,Blue,Solid Colors,2,0.31
+6629,6279886,6629.dat,"Technic, Liftarm, Modified Bent Thick 1 x 9 (6 - 4)",1,15,White,Solid Colors,2,2.6
 73507,6330585,73507.dat,"Technic, Liftarm, Modified Perpendicular Holes Thick 1 x 11",11,0,Black,Solid Colors,1,0
 ,,,,,,,,,
 Total qty,Total Weight,,,,,,,,
-65,51.86,,,,,,,,
+65,57.06,,,,,,,,
