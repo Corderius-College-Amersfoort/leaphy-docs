@@ -2,6 +2,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+const organizationName = "Coderius-Education";
+const projectName = "leaphy-docs";
+
 const config: Config = {
   title: 'Leaphy-Docs',
   tagline: 'Micropython naar de maan!',
