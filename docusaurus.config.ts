@@ -9,24 +9,15 @@ const config: Config = {
   title: 'Leaphy-Docs',
   tagline: 'Micropython naar de maan!',
 
-
-  // Set the production url of your site here
   url: 'https://robotica.coderius.nl',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Coderius-Education', // Usually your GitHub org/user name.
-  projectName: 'leaphy-docs', // Usually your repo name.
+  organizationName: 'Coderius-Education',
+  projectName: 'leaphy-docs',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -64,7 +55,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'Home',
@@ -85,10 +75,10 @@ const config: Config = {
         {
           to: '/docs/Microcontrollers/Arduino Nano RP2040 Connect/Tutorial-debuggen/debuggen',
           label: 'Er gaat iets mis',
-          position: 'left',   
-          },
+          position: 'left',
+        },
         {
-          href: 'https://github.com/Corderius-College-Amersfoort/leaphy-docs',
+          href: 'https://github.com/Coderius-College-Amersfoort/leaphy-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -102,7 +92,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/Corderius-College-Amersfoort/leaphy-docs',
+              href: 'https://github.com/Coderius-College-Amersfoort/leaphy-docs',
             },
           ],
         },
