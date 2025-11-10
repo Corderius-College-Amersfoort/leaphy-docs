@@ -7,7 +7,7 @@ const projectName = "leaphy-docs";
 
 const config: Config = {
   title: 'Leaphy-Docs',
-  tagline: 'Micropython naar de maan!',
+  tagline: 'Micropython naar de maan  🔥🔥',
 
   url: 'https://robotica.coderius.nl',
   baseUrl: '/',

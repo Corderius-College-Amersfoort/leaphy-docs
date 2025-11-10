@@ -13,11 +13,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
     {
-        title: 'Lego Auto',
+        title: 'Lego-auto',
         icon: '🚗',
         description: (
             <>
-                tekst
+                Als je de lego auto wilt bouwen
             </>
         ),
         link: '/lego_auto/intro',
@@ -28,7 +28,7 @@ const FeatureList: FeatureItem[] = [
         icon: '📚',
         description: (
             <>
-                tekst
+                Specifieke componenten
             </>
         ),
         link: '/docs/intro',
