@@ -1,4 +1,4 @@
-# My Docusaurus Project
+# Leaphy Docs
 Welcome to the My Docusaurus Project! This project is built using Docusaurus, an open-source framework for building documentation websites.
 
 ## Getting Started
